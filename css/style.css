@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;400;500;700;800&display=swap%27');
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+	font-family: 'Catamaran', sans-serif;
+}
+header{
+	position: relative;
+	background-color: #f9f9f9;
+	width: 100%;
+	top:0;
+}
+
+#hero{
+	background-image: url("../img/home-slide.jpg");
+	background-size:cover;
+	background-position:center;
+	padding:15%;
+}
+
+#ctaproducts{
+	background-image: url("../img/product-parallax.jpg");
+	background-size:cover;
+	background-position: center;
+	padding: 10%;
+}
+
+#ctaflexibility{
+	background-image: url("../img/product-parallax-2.jpg");
+	background-size: cover;
+	background-position: center;
+	padding: 15%;
+}
+
+footer{
+	background-color: #30363d;
+	padding: 30px;
+	color: #999;
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p{
+	margin-bottom: 0;
+}
+
