@@ -59,24 +59,17 @@ header{
   background-repeat: no-repeat;
   background-size: cover;
 	
-}
-
-#ctaflexibility h1{
-	color: var( --color-fondogris);
+	
 }
 
 #infoproduct h1{
-	color: var( --color-negrooscuro);
+	background-color: var( --color-negrooscuro);
 }
 
 
 
 #product{
 	padding:8%;
-}
-
-#product h4{
-	color: var( --color-negrooscuro);
 }
 
 #clients{
